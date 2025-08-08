@@ -1,0 +1,3 @@
+Name : R.Pavani
+Course : Bsc Data Science
+I learned about devops, a software delivery by automating development, testing, and operations.
